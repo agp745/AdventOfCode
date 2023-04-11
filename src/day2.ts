@@ -1,4 +1,3 @@
-import { match } from 'assert'
 import fs from 'fs'
 
 const path = __dirname + '/inputs/day2.txt'
