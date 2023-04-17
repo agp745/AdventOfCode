@@ -1,11 +1,10 @@
-import { data, biggest, top3 } from './day1'
+import { biggest, top3 } from './day1'
 import { matches, scores, total } from './day2'
+import { data, test } from './day3'
 
-//day 1
-console.log(biggest)
-console.log(top3)
+console.log(data[0])
+console.log(test)
 
-//day 2
-console.log(matches)
-console.log(scores)
-console.log(total)
+
+
+
